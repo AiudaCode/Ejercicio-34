@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1479152612 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 34\main.cpp
+	<iostream>
+	"Tablero.h"
+	<unistd.h>
+
+1479152567 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 34\include\tablero.h
+
+1479161027 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 34\src\tablero.cpp
+	"Tablero.h"
+	<stdlib.h>
+
